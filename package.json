@@ -1,0 +1,14 @@
+{
+  "name": "nodeJsApp",
+  "version": "1.0.0",
+  "description": "Simple Node.js app for deployment testing",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo Build completed",
+    "test": "echo No tests yet"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
